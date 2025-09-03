@@ -43,7 +43,4 @@ the tool will clone the repo, process all files, generate an html page and open 
 - `--out`: specify output file location
 - `--no-open`: dont open browser automatically
 
-## license
-
-bsd0
-# RepoFlux
+# RepoFlux by ilakianpuvanendra(ilakiancs)
